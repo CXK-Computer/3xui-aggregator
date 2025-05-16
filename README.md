@@ -1,23 +1,18 @@
-### X-UI面板地址扫描
-# Hiddify Panel (https://github.com/hiddify/Hiddify-Manager)
-直接搜索：icon_hash="-463605824"
+### 免责申明
++ 本项目仅用作学习爬虫技术，请勿滥用，不要通过此工具做任何违法乱纪或有损国家利益之事
++ 禁止使用该项目进行任何盈利活动，对一切非法使用所产生的后果，本人概不负责
+![xui](./xui.png)
+## 功能
++ 在原版的基础上增加了GUI，实现Password, Username, Threads的GUI控制
+## 维护
++ 周末吧，欢迎大家issue和PR
+# X-UI面板地址扫描
+<u>https://channel.rclogs.com/posts/41<u>
+## ⭐ Star 星星走起
+[![Stargazers over time](https://starchart.cc/CXK-Computer/3xui-aggregator.svg?variant=adaptive)](https://starchart.cc/CXK-Computer/3xui-aggregator)
 
-# Alireza Panel X-UI (https://github.com/alireza0/x-ui)
-直接搜索：icon_hash="632122420"
-直接搜索：fid="WAJ/JZ0LJBfI0Sat1v3epw=="
-直接搜索：fid="KKklLh/er2mqzO2+oBP+Ow=="
-直接搜索：fid="fKXHO3B9QN7KfObXDFEslA=="
 
-# Alireza Panel S-UI (https://github.com/alireza0/s-ui)
-直接搜索：icon_hash="-1176819779"
-直接搜索：fid="sCoSRe/TP2o0QXnjdKzEtw=="
-
-# 3xui Panel (https://github.com/MHSanaei/3x-ui)
-直接搜索：icon_hash="-1940576803"
-直接搜索：fid="d/cSbYaUbDLdwUUbAnQ0cQ=="
-
-# Marzban Panel (https://github.com/Gozargah/Marzban)
-直接搜索：fid="Fr1QAgfIw8vyJUKE6Onmrw=="
-直接搜索：body_hash="1953156989"
-
-&&country="CN"
+## 🙏 致谢
+1. <u>(https://github.com/wzdnzd/aggregator)</u>
+2. <u>(https://blog-next-js.pages.dev/blog/%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C)</u>
+3. Gemini，Google

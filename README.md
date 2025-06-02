@@ -7,7 +7,9 @@
 ## 维护
 + 周末吧，欢迎大家issue和PR
 # X-UI面板地址扫描
+fofa：
 <u>https://channel.rclogs.com/posts/41<u>
+censys:
 393eccffeeb74e8d336cc470a44ef957b5090d53
 ## ⭐ Star 星星走起
 [![Stargazers over time](https://starchart.cc/CXK-Computer/3xui-aggregator.svg?variant=adaptive)](https://starchart.cc/CXK-Computer/3xui-aggregator)

@@ -8,6 +8,7 @@
 + 周末吧，欢迎大家issue和PR
 # X-UI面板地址扫描
 <u>https://channel.rclogs.com/posts/41<u>
+fid="St/06a76oA4h8EhnSnuEcg==" || fid="z2ENYvhR/6Q/agEXGFVmdA==" || icon_hash="-463605824" && icon_hash="632122420" || icon_hash="-1940576803" && country!="CN"
 ## ⭐ Star 星星走起
 [![Stargazers over time](https://starchart.cc/CXK-Computer/3xui-aggregator.svg?variant=adaptive)](https://starchart.cc/CXK-Computer/3xui-aggregator)
 

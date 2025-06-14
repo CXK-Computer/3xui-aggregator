@@ -7,8 +7,12 @@
 ## 维护
 + 周末吧，欢迎大家issue和PR
 # X-UI面板地址扫描
+fofa：
 <u>https://channel.rclogs.com/posts/41<u>
-fid="St/06a76oA4h8EhnSnuEcg==" || fid="z2ENYvhR/6Q/agEXGFVmdA==" || icon_hash="-463605824" && icon_hash="632122420" || icon_hash="-1940576803" && country!="CN"
+((app="3x-ui" || app="x-ui"))
+censys:
+393eccffeeb74e8d336cc470a44ef957b5090d53
+>>>>>>> c240b8242173a70eb436c13e8c28836ccd4dfb63
 ## ⭐ Star 星星走起
 [![Stargazers over time](https://starchart.cc/CXK-Computer/3xui-aggregator.svg?variant=adaptive)](https://starchart.cc/CXK-Computer/3xui-aggregator)
 
